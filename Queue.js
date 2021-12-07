@@ -10,4 +10,8 @@ class Queue {
   remove() {
     return this.data.pop();
   }
+
+  display() {
+    console.log(this.data);
+  }
 }
