@@ -1,5 +1,5 @@
 const gitTest = () => {
-  return "Git is staying forever.";
+  return "I am on the extra-feature branch.";
 };
 
 const str = gitTest();
